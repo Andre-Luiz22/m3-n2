@@ -1,6 +1,6 @@
 <h1>Estácio - Mundo 3 - Missão Nível 2</h1>
 
-Faculdade Estácio - Polo Centro - BelO Horizonte - MG
+Faculdade Estácio - Polo Centro - Belo Horizonte - MG
 
 Curso: Desenvolvimento Full Stack.
 
@@ -12,14 +12,14 @@ Semestre Letivo: 3.
 
 Integrante: André Luiz Ferreira da Silva
 
-Repositório: https://github.com/
+Repositório: https://github.com/Andre-Luiz22/m3-n2
 
 IDE Utilizada: Sql Server Management Studio.
 
 Relatórios em PDF
 
-- [Procedimento 1](https://github.com/)
-- [Procedimento 2](https://github.com/)
+- [Procedimento 1](https://github.com/Andre-Luiz22/m3-n2/blob/procedimento%201.pdf)
+- [Procedimento 2](https://github.com/Andre-Luiz22/m3-n2/blob/procedimento%202.pdf)
 
 Objetivos da prática
 
