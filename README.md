@@ -4,7 +4,7 @@ Faculdade Estácio - Polo Centro - Belo Horizonte - MG
 
 Curso: Desenvolvimento Full Stack.
 
-Disciplina: Nível 2: Vamos Manter as Informações?.
+Disciplina: Nível 2: Vamos Manter as Informações!
 
 Número da Turma: 2023.1
 
