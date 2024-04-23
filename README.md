@@ -18,8 +18,8 @@ IDE Utilizada: Sql Server Management Studio.
 
 Relatórios em PDF
 
-- [Procedimento 1](https://github.com/Andre-Luiz22/m3-n2/blob/procedimento%201.pdf)
-- [Procedimento 2](https://github.com/Andre-Luiz22/m3-n2/blob/procedimento%202.pdf)
+- [Procedimento 1](https://github.com/Andre-Luiz22/m3-n2/blob/main/procedimento%201.pdf)
+- [Procedimento 2](https://github.com/Andre-Luiz22/m3-n2/blob/main/procedimento%202.pdf)
 
 Objetivos da prática
 
